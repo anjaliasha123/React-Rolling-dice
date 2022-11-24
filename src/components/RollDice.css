@@ -16,3 +16,8 @@ button.roll-dice{
     box-shadow: #000000a6 5px 4px 2px;
 
 }
+button.roll-dice:hover{
+    background-color: #000;
+}
+
+ 
